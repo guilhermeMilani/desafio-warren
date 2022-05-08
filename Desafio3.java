@@ -54,7 +54,7 @@ public class Desafio3 {
 		}
 
 		System.out.println("valor somado:" + total);
-		System.out.println("numeros urilizados na soma:");
+		System.out.println("numeros utilizados na soma:");
 		for (int i = 0; i < numerosUsados.size(); i++) {
 			System.out.println("valor " + i + ": " + numerosUsados.get(i));
 		}
